@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Distributed Systems
 - 🔭 My interests lies in Algorithms and Systems
 - Proficient in C++, Go
+- Currently, an intern at Commvault for Summer 2024. Working on Distributed Backup and Restore of GCP MS SQL Server Instances.
 - Some websites that I often visit:
    - [Advice from C++ creator](https://www.i-programmer.info/news/99-professional/16556-advice-and-admissions-from-creator-of-c.html)
    - [jvns.ca](https://jvns.ca/)
