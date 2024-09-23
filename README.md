@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Distributed Systems
-- 🔭 My interests lies in Algorithms and Systems
-- Proficient in C++, Go
+- My interests lie in Algorithms and Distributed Systems.
+- Proficient in C++, Go.
 - Some websites that I often visit:
    - [Advice from C++ creator](https://www.i-programmer.info/news/99-professional/16556-advice-and-admissions-from-creator-of-c.html)
    - [jvns.ca](https://jvns.ca/)
