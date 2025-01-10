@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-- My interests lie in Algorithms and Distributed Systems.
+- Algorithms and Distributed Systems.
 - Proficient in C++, Go.
 - Some websites that I often visit:
    - [Advice from C++ creator](https://www.i-programmer.info/news/99-professional/16556-advice-and-admissions-from-creator-of-c.html)
    - [jvns.ca](https://jvns.ca/)
-   - It's been two years and still I love the problem - [algorithm](https://codeforces.com/contest/1526/problem/C2 )
+   - [algorithm](https://codeforces.com/contest/1526/problem/C2 )
 <!--
 **AnkithReddy02/AnkithReddy02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
