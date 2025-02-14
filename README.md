@@ -2,6 +2,7 @@
 
 - Algorithms and Distributed Systems.
 - Proficient in C++, Go.
+- How about writing a program to identify the system is Little Endian or Big Endian? Use cases of the program?
 - Some websites that I often visit:
    - [Advice from C++ creator](https://www.i-programmer.info/news/99-professional/16556-advice-and-admissions-from-creator-of-c.html)
    - [jvns.ca](https://jvns.ca/)
